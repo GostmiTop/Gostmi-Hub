@@ -274,7 +274,7 @@ function Library.Main(text : string)
         Position = UDim2.new(0,15,0,65);
         Size = UDim2.new(0.48,0,1,-75);
         BorderSizePixel = 0;
-        BackgroundColor3 = Color3.fromRGB(195, 195, 250);
+        BackgroundColor3 = Color3.fromRGB(128,232,222);
         CornerRadius = UDim.new(0,5);
         BackgroundTransparency = 1;
         ClipsDescendants = true;
