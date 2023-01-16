@@ -264,7 +264,7 @@ function Library.Main(text : string)
     OnEffect.Name = "OnEffect"
     OnEffect.Parent = Main
     OnEffect.Volume = Library["theme"]["SoundVolume"]
-    OnEffect.SoundId = "http://www.roblox.com/asset/?id=12173436761" 
+    OnEffect.SoundId = "http://www.roblox.com/asset/?id=1837243759" 
     OnEffect:Play() 
 
 
